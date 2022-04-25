@@ -5,7 +5,7 @@ import "https://github.com/chiru-labs/ERC721A/blob/main/contracts/ERC721A.sol";
 
 contract GobFatherNFT is ERC721A
 {
-    // contract address is 0xd9145CCE52D386f254917e481eB44e9943F39138
+    // Etherscan Link ->  https://ropsten.etherscan.io/address/0x3c42935017f68773B38B66955B8D43D5e4D9563D
 
     uint256 constant public TotalNFT = 10000;
     uint256 constant public MaxMintForEachPerson = 10;
